@@ -1,0 +1,15 @@
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\bin\Debug\net7.0\Thiết kế MENU cho ứng dụng.exe
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\bin\Debug\net7.0\Thiết kế MENU cho ứng dụng.deps.json
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\bin\Debug\net7.0\Thiết kế MENU cho ứng dụng.runtimeconfig.json
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\bin\Debug\net7.0\Thiết kế MENU cho ứng dụng.dll
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\bin\Debug\net7.0\Thiết kế MENU cho ứng dụng.pdb
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.csproj.AssemblyReference.cache
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.GeneratedMSBuildEditorConfig.editorconfig
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.AssemblyInfoInputs.cache
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.AssemblyInfo.cs
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.csproj.CoreCompileInputs.cache
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.dll
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\refint\Thiết kế MENU cho ứng dụng.dll
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.pdb
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\Thiết kế MENU cho ứng dụng.genruntimeconfig.cache
+E:\ALL GIT C#\Thiết kế MENU cho ứng dụng\obj\Debug\net7.0\ref\Thiết kế MENU cho ứng dụng.dll
